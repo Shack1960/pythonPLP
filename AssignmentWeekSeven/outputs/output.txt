@@ -1,0 +1,11 @@
+Mean values for each species:
+             sepal length (cm)  sepal width (cm)  petal length (cm)  petal width (cm)
+species
+setosa                  5.006             3.428              1.462             0.246
+versicolor              5.936             2.770              4.260             1.326
+virginica               6.588             2.974              5.552             2.026
+
+Observations:
+
+- Setosa has the smallest average petal length and width.
+- Virginica has the largest average measurements across most features.
